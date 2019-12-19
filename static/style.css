@@ -1,0 +1,14 @@
+body {
+    font-family: 'Caveat', cursive;
+    background-color: rgb(23, 24, 26);
+    color: rgb(241, 241, 241);
+}
+
+.mainDiv {    
+    line-height: 50px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
